@@ -1,0 +1,8 @@
+{
+    "name": "Alice",
+    "hobbies": ["reading", "basketball", "music"],
+    "address": {
+        "city": "Wonderland",
+        "zip": 12345
+    }
+}

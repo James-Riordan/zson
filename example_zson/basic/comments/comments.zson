@@ -1,0 +1,17 @@
+// Define user details
+let name = "Bob";
+let age = 40;
+
+// Final output
+{
+    name: name,
+    age: age
+}
+
+/*
+This
+is
+a
+multi-line 
+comment
+*/

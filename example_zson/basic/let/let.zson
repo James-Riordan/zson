@@ -1,0 +1,7 @@
+let name = "Alice";
+let age = 30;
+{
+    user_name: name,
+    user_age: age,
+    active: true,
+}

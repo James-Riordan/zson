@@ -1,0 +1,11 @@
+let hobbies = ["reading", "basketball", "music"];
+let address = {
+    city: "Wonderland",
+    zip: 12345
+};
+
+{
+    name: "Alice",
+    hobbies: hobbies,
+    address: address
+}

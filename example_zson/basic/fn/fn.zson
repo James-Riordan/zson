@@ -1,0 +1,7 @@
+fn fullName(first, last) {
+    return first + " " + last;
+}
+
+{
+    full_name: fullName("Alice", "Johnson")
+}

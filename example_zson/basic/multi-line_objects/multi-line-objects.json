@@ -1,0 +1,6 @@
+{
+    "name": "Charlie",
+    "age": 29,
+    "skills": ["Zig", "Rust", "Go"],
+    "active": true
+}

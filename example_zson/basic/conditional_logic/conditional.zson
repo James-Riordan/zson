@@ -1,0 +1,7 @@
+let age = 25;
+let status = if age >= 18 then "Adult" else "Minor";
+
+{
+    age: age,
+    status: status
+}
